@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "open-meteo"
-version = "0.0.0"
+version = "0.4.1"
 description = "Asynchronous client for the Open-Meteo API."
 authors = ["Franck Nijhof <opensource@frenck.dev>"]
 maintainers = ["Franck Nijhof <opensource@frenck.dev>"]
